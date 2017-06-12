@@ -1,4 +1,4 @@
 # HiR
 A notebook of learning R
 
-Fingers crossed.
+Fingers crossed, for the Visa application.
